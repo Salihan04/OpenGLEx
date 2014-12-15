@@ -180,9 +180,9 @@ void renderScene() {
 
 //	drawPoints();
 //	drawRandomPoints();
-	drawLines();
+//	drawLines();
 //	drawRandomLines();
-//	drawCircles();
+	drawCircles();
 //	drawRandomCircles();
 
 	glutSwapBuffers();	//to prevent flickering when rendering scene
