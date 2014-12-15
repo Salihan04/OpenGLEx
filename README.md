@@ -1,0 +1,4 @@
+OpenGLEx
+========
+
+Simple OpenGL exercises
