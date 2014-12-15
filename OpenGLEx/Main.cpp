@@ -179,10 +179,10 @@ void renderScene() {
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
 //	drawPoints();
-	drawRandomPoints();
+//	drawRandomPoints();
 //	drawLines();
 //	drawRandomLines();
-//	drawCircles();
+	drawCircles();
 //	drawRandomCircles();
 
 	glutSwapBuffers();	//to prevent flickering when rendering scene

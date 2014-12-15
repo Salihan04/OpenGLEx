@@ -8,6 +8,8 @@ Exercises include:
 * Random points
 * Draw some lines
 * Random lines
+* Draw circle
+* Random circles
 
 Implemented using C++ in Visual Studio 2013 environment. Libraries installed using Nuget Package Manager ("Install-Package nupengl.core").
 <br><b>Note:</b> .gitignore is necessary for version control for Visual Studio 2013
