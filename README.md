@@ -10,4 +10,4 @@ Exercises include:
 * Random lines
 
 Implemented in Visual Studio 2013 environment. Libraries installed using Nuget Package Manager ("Install-Package nupengl.core").
-**Note: **.gitignore is necessary for version control for Visual Studio 2013
+<b>Note:</b> .gitignore is necessary for version control for Visual Studio 2013
